@@ -1,4 +1,4 @@
-# GitHub Action for PHPLint
+# GitHub Action for PHP-Lint-php8.3
 
 GitHub Action implementation of the PHPLint Package provided by [@Overtrue/phplint](https://github.com/overtrue/phplint). 
 
@@ -21,7 +21,3 @@ jobs:
 
 If provided, a `.phplint.yml` file in the root will be used for configuration during run of the Action.
 
-## See it in practice
-
-You can find a working and not working PR here:
-https://github.com/michaelw90/PHP-Lint-Demo/pulls
